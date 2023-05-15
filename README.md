@@ -24,6 +24,9 @@ Back in style.css, in the ruleset for elements that have the class grid, set the
 
 Right now, we haven’t specified the number of rows or columns in our grid, so every item is sitting on a new row. We’ll learn how to structure grid rows and columns in the next couple of exercises.
 
+### Screen Shot
+
+![](./screen_shot.jpg)
 
 
 ###### NG: memory jog
